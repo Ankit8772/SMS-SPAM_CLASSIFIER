@@ -1,2 +1,2 @@
-# SMS-SPAM_CLASSIFIER
-Spam and Ham messages detection using Machine Learning and NLP.
+# email-spam-classifier-new
+End to end code for the email spam classifier project
